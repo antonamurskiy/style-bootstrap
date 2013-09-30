@@ -1,0 +1,23 @@
+{
+  "name": "style-bootstrap",
+  "version": "0.0.0",
+  "description": "Bootstrap CSS",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antonamurskiy/style-bootstrap.git"
+  },
+  "author": "Anton Amurskiy",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "insert-css": "0.0.0"
+  },
+  "devDependencies": {
+    "brfs": "0.0.8"
+  },
+  "browserify": {
+    "transform": "brfs"
+  }
+}

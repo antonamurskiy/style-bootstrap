@@ -12,7 +12,8 @@
   "author": "Anton Amurskiy",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "insert-css": "0.0.0"
+    "insert-css": "0.0.0",
+    "brfs": "0.0.8"
   },
   "devDependencies": {
     "brfs": "0.0.8"

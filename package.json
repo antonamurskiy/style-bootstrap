@@ -1,10 +1,9 @@
 {
   "name": "style-bootstrap",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Bootstrap CSS",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/antonamurskiy/style-bootstrap.git"
